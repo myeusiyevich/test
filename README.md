@@ -1,4 +1,3 @@
-# Yandex Music
 ![YM-logo](yandex_music_logo.png)
 ## Table of Contents
 * [Description](#description)
