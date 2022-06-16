@@ -21,7 +21,7 @@ Pandas, Fuzzywuzzy
 
 
 ## Tags :label:
-Exploratory Data Analysis, Python, Pandas, Numpy, Matplotlib, Seaborn, Research, Data processing, Duplicates, Logical indexing, Grouping, Sorting
+Exploratory Data Analysis, Python, Pandas, Numpy, Matplotlib, Seaborn, Research, Data processing, Duplicates, Logical indexing, Grouping, Sorting, Levenshtein distance
 
 
 ## Project Status :black_square_button:
