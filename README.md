@@ -1,5 +1,5 @@
 # Yandex Music
-
+![Algorithm schema](CnyeNEN.jpeg)
 ## Table of Contents
 * [Description](#description)
 * [Tasks](#tasks)
