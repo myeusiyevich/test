@@ -1,35 +1,27 @@
 ![YM-logo](yandex_music_logo.png)
 
 ## Description :key:
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+In this project, working as a data analyst of the Yandex Music platform. Comparing the musical preferences of users in two megapolices - Moscow and St. Petersburg. Working with the data provided by the Yandex Music platform - information about users and the tracks they listened during one week from 8:00 to 22:00 for every day.
 
 
 ## Tasks :ballot_box_with_check:
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+The purpose of the project - to test three hypotheses:
+
+1. User activity depends on the day of the week. Moreover, in Moscow and St. Petersburg it differs.
+2. On Monday morning, certain genres prevail in Moscow, while others prevail in St. Petersburg. Similarly, Friday evenings are dominated by different genres, depending on the city.
+3. Moscow and St. Petersburg prefer different genres. In Moscow, people listen to pop music mostly, in St. Petersburg - Russian rap.
 
 
 ## Scope of activities :bulb:
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+Advertising platforms, Internet services, Internet shops, Digital-agencies / Marketing / PR / SEO, Startups, IT-company, Business services [b2b]
 
 
 ## Used Libraries :mortar_board:
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+Pandas
 
 
 ## Tags :label:
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+Exploratory Data Analysis, Python, Pandas, Numpy, Matplotlib, Seaborn, Research, Data processing, Duplicates, Logical indexing, Grouping, Sorting
 
 
 ## Project Status :black_square_button:
