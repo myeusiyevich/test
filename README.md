@@ -17,7 +17,7 @@ Advertising platforms, Internet services, Internet shops, Digital-agencies / Mar
 
 
 ## Used Libraries :mortar_board:
-Pandas
+Pandas, Fuzzywuzzy
 
 
 ## Tags :label:
