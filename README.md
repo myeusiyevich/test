@@ -1,7 +1,7 @@
 ![YM-logo](yandex_music_logo.png)
 
 ## Description :key:
-In this project, working as a data analyst of the Yandex Music platform. Comparing the musical preferences of users in two megapolices - Moscow and St. Petersburg. Working with the data provided by the Yandex Music platform - information about users and the tracks they listened during one week from 8:00 to 22:00 for every day.
+In this project, working as a data analyst of the Yandex Music platform. Comparing the musical preferences of users in two megapolices - Moscow and St. Petersburg. Working with the data provided by the Yandex Music platform - information about users and the tracks they listened in Monday, Wednesday and Friday from 8:00 to 22:00.
 
 
 ## Tasks :ballot_box_with_check:
