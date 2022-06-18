@@ -17,7 +17,7 @@ Advertising platforms, Internet services, Internet shops, Digital-agencies / Mar
 
 
 ## Used Libraries :mortar_board:
-Pandas, Fuzzywuzzy
+Pandas, Fuzzywuzzy, Seaborn, Matplotlib
 
 
 ## Tags :label:
