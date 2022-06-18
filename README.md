@@ -9,7 +9,7 @@ The main goal of the project is to test three hypotheses:
 
 1. User activity depends on the day of the week. Moreover, in Moscow and St. Petersburg it differs.
 2. On Monday mornings, certain genres prevail in Moscow, while others prevail in St. Petersburg. The same goes for Friday evenings, depending on the city.
-3. People in Moscow and St. Petersburg prefer different genres: pop music is popular in Moskow, in St. Petersburg - Russian rap.
+3. People in Moscow and St. Petersburg prefer different genres: pop music is more popular in Moskow, in St. Petersburg - russian rap.
 
 
 ## Scope of activities :bulb:
